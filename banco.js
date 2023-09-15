@@ -36,9 +36,5 @@ const banco = {
     }
   };
   
-  // Exemplos de uso
-  console.log("Saldo atual:", banco.buscarSaldo());
-  console.log(banco.deposito(500.00));
-  console.log(banco.saque(200.00));
-  console.log("Número da conta:", banco.numeroConta());
+  
   
